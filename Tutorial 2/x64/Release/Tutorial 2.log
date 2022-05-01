@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+  GLFontRenderer.cpp
+  Renderer.cpp
+  PhysicsEngine.cpp
+  VisualDebugger.cpp
+  Tutorial 2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+W:\PhysXTutorial-master\Tutorial 2\ModelLoader.h(92): warning C4715: 'PhysicsEngine::ModelImport::LoadOBJ2': not all control paths return a value
+  All 1276 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tutorial 2.vcxproj -> W:\PhysXTutorial-master\x64\Release\Tutorial 2.exe
